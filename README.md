@@ -1,5 +1,5 @@
 # EXCHANGE_RATES_CONVERSION_APP-WITH_GUI-
-I designed gui to my EXHANGE_RATES_CONVERSION_APP app.
+I designed a gui to my EXHANGE_RATES_CONVERSION_APP repository.
 
 EN
 I left some screenshots if you are wondering.
