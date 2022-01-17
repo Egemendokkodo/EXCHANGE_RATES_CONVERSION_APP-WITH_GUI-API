@@ -1,5 +1,5 @@
 # EXCHANGE_RATES_CONVERSION_APP-WITH_GUI-
-I designed a gui to my EXHANGE_RATES_CONVERSION_APP repository.
+I designed a gui to my EXHANGE_RATES_CONVERSION_APP repository using Python PyQt5 and CSS
 
 EN
 I left some screenshots if you are wondering.
