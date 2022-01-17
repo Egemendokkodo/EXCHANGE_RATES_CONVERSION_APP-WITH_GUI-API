@@ -2,7 +2,7 @@
 I designed gui to my EXHANGE_RATES_CONVERSION_APP app.
 
 EN
-I left some screenshots if you wonder.
+I left some screenshots if you are wondering.
 if you want to run the code, you need to have an api from https://v6.exchangerate-api.com .
 
 TR
